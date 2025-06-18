@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "br.com.loginapp",
+      "package": "br.com.loginApp",
       "googleServicesFile": "./google-services.json"
     },
     "web": {
